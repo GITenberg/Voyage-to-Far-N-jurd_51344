@@ -1,0 +1,30 @@
+_repo: Voyage-to-Far-N-jurd_51344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: 1925
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Death -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Voyage to Far N'jurd
+url: http://www.gutenberg.org/ebooks/51344
