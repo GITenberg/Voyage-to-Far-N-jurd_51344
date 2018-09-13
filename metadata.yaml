@@ -1,5 +1,8 @@
 _repo: Voyage-to-Far-N-jurd_51344
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51344-h/images/cover.jpg
 creator:
   author:
     agent_name: Neville, Kris
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25913
     wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51344#Voyage-to-Far-N-jurd
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-02'
 gutenberg_type: Text
